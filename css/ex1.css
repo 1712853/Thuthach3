@@ -1,0 +1,23 @@
+.background
+{
+    background-image: url(../img/logo.png);
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: 20%;
+}
+.text
+{
+    
+    width: 60%;
+   
+}
+h1{
+    text-align: center;
+    color: tomato;
+}
+h2
+{
+    text-align: center;
+    color: dodgerblue;
+}

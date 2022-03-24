@@ -1,0 +1,22 @@
+.cover
+{
+    background-image: url(../img/cover.jpg);
+    height: 300px;
+    
+}
+.text{
+    color: aliceblue;
+    position: absolute;
+    left: 350px;
+    top: 200px;
+}
+.avarta
+{
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    width: 200px;
+    height: 200px;
+    border: solid 10px white;
+
+}
